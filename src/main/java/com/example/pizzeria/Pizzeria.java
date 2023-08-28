@@ -392,5 +392,8 @@ public class Pizzeria extends Application {
         primaryStage.show();
 
 
+        //todo tworzyć pizze poprzez konstruktor
+
+
     }
 }
